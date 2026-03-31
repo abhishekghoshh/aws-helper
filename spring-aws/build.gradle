@@ -30,6 +30,12 @@ dependencies {
 	implementation("software.amazon.awssdk:dynamodb:2.42.17")
 	implementation("software.amazon.awssdk:dynamodb-enhanced:2.42.17")
 
+	// Redis dependencies
+	implementation('org.springframework.boot:spring-boot-starter-data-redis'){
+        exclude group: 'org.springframework.boot', module: 'spring-boot-starter-logging'
+    }
+    implementation 'redis.clients:jedis'
+
 
     // Testing dependencies
 	testImplementation 'org.springframework.boot:spring-boot-starter-test'

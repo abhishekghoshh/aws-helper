@@ -23,3 +23,13 @@ AWS Secret Access Key [None]: ****************************************
 Default region name [None]: us-east-1
 Default output format [None]: json
 ```
+
+Check aws configured user
+```zsh
+> aws sts get-caller-identity
+{
+    "UserId": "#####",
+    "Account": "#####",
+    "Arn": "arn:aws:iam::####:user/####"
+}
+```

@@ -4,6 +4,9 @@
 
 ## Youtube
 
+### General
+
+- [AWS Kubernetes Full Course (EKS) — Deploy Real Apps Step-by-Step](https://www.youtube.com/watch?v=uqdeO3wAWTc)
 - [AWS EKS Tutorial | What is EKS? | EKS Explained | KodeKloud](https://www.youtube.com/watch?v=CukYk43agA4)
 - [ECS and EKS: What Works Best for Your Project? | AWS ECS vs EKS | KodeKloud](https://www.youtube.com/watch?v=o73kDW0xqlg)
 
@@ -12,7 +15,7 @@
 
 
 
-## Terraform
+### With Terraform
 
 - [Create EKS Cluster with VPC using Terraform | Real Time Terraform Modules Implementation](https://www.youtube.com/watch?v=_BTpd2oYafM)
   - [iam-veeramalla/terraform-eks](https://github.com/iam-veeramalla/terraform-eks)

@@ -1,4 +1,4 @@
-package io.github.abhishekghoshh.aws.core;
+package io.github.abhishekghoshh.aws.core.interceptor;
 
 
 import org.springframework.beans.factory.annotation.Autowired;

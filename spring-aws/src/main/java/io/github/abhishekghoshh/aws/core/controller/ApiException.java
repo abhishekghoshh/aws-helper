@@ -1,4 +1,4 @@
-package io.github.abhishekghoshh.aws.core;
+package io.github.abhishekghoshh.aws.core.controller;
 
 
 public class ApiException extends Exception {

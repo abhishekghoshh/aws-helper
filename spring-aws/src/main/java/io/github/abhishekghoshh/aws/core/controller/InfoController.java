@@ -1,4 +1,4 @@
-package io.github.abhishekghoshh.aws.core;
+package io.github.abhishekghoshh.aws.core.controller;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.http.ResponseEntity;
