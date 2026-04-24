@@ -1,0 +1,118 @@
+{
+   "resource":"/",
+   "path":"/",
+   "httpMethod":"GET",
+   "headers":{
+      "accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+      "accept-encoding":"gzip, deflate, br, zstd",
+      "accept-language":"en-GB,en-US;q=0.9,en;q=0.8",
+      "Host":"b2h7zuhxq3.execute-api.ap-south-1.amazonaws.com",
+      "priority":"u=0, i",
+      "sec-ch-ua":"\"Google Chrome\";v=\"137\", \"Chromium\";v=\"137\", \"Not/A)Brand\";v=\"24\"",
+      "sec-ch-ua-mobile":"?0",
+      "sec-ch-ua-platform":"\"macOS\"",
+      "sec-fetch-dest":"document",
+      "sec-fetch-mode":"navigate",
+      "sec-fetch-site":"none",
+      "sec-fetch-user":"?1",
+      "upgrade-insecure-requests":"1",
+      "User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
+      "X-Amzn-Trace-Id":"Root=1-68467650-716e1c2f1aa9f12b047ab0a9",
+      "X-Forwarded-For":"171.78.137.236",
+      "X-Forwarded-Port":"443",
+      "X-Forwarded-Proto":"https"
+   },
+   "multiValueHeaders":{
+      "accept":[
+         "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7"
+      ],
+      "accept-encoding":[
+         "gzip, deflate, br, zstd"
+      ],
+      "accept-language":[
+         "en-GB,en-US;q=0.9,en;q=0.8"
+      ],
+      "Host":[
+         "b2h7zuhxq3.execute-api.ap-south-1.amazonaws.com"
+      ],
+      "priority":[
+         "u=0, i"
+      ],
+      "sec-ch-ua":[
+         "\"Google Chrome\";v=\"137\", \"Chromium\";v=\"137\", \"Not/A)Brand\";v=\"24\""
+      ],
+      "sec-ch-ua-mobile":[
+         "?0"
+      ],
+      "sec-ch-ua-platform":[
+         "\"macOS\""
+      ],
+      "sec-fetch-dest":[
+         "document"
+      ],
+      "sec-fetch-mode":[
+         "navigate"
+      ],
+      "sec-fetch-site":[
+         "none"
+      ],
+      "sec-fetch-user":[
+         "?1"
+      ],
+      "upgrade-insecure-requests":[
+         "1"
+      ],
+      "User-Agent":[
+         "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+      ],
+      "X-Amzn-Trace-Id":[
+         "Root=1-68467650-716e1c2f1aa9f12b047ab0a9"
+      ],
+      "X-Forwarded-For":[
+         "171.78.137.236"
+      ],
+      "X-Forwarded-Port":[
+         "443"
+      ],
+      "X-Forwarded-Proto":[
+         "https"
+      ]
+   },
+   "queryStringParameters":"None",
+   "multiValueQueryStringParameters":"None",
+   "pathParameters":"None",
+   "stageVariables":"None",
+   "requestContext":{
+      "resourceId":"w7mlld38r9",
+      "resourcePath":"/",
+      "httpMethod":"GET",
+      "extendedRequestId":"L4dsnFLphcwEQKw=",
+      "requestTime":"09/Jun/2025:05:51:12 +0000",
+      "path":"/dev",
+      "accountId":"272645821363",
+      "protocol":"HTTP/1.1",
+      "stage":"dev",
+      "domainPrefix":"b2h7zuhxq3",
+      "requestTimeEpoch":1749448272326,
+      "requestId":"8b240130-38d6-466c-9f31-67d969c776a8",
+      "identity":{
+         "cognitoIdentityPoolId":"None",
+         "accountId":"None",
+         "cognitoIdentityId":"None",
+         "caller":"None",
+         "sourceIp":"171.78.137.236",
+         "principalOrgId":"None",
+         "accessKey":"None",
+         "cognitoAuthenticationType":"None",
+         "cognitoAuthenticationProvider":"None",
+         "userArn":"None",
+         "userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
+         "user":"None"
+      },
+      "domainName":"b2h7zuhxq3.execute-api.ap-south-1.amazonaws.com",
+      "deploymentId":"285g1f",
+      "apiId":"b2h7zuhxq3"
+   },
+   "body":"None",
+   "isBase64Encoded":false
+}

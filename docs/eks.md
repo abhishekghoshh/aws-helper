@@ -6,9 +6,14 @@
 
 ### General
 
-- [AWS Kubernetes Full Course (EKS) — Deploy Real Apps Step-by-Step](https://www.youtube.com/watch?v=uqdeO3wAWTc)
+- [The End of Kubernetes Complexity | Amazon EKS Auto Mode Deep dive](https://www.youtube.com/watch?v=cbVwmdoVvAg)
 - [AWS EKS Tutorial | What is EKS? | EKS Explained | KodeKloud](https://www.youtube.com/watch?v=CukYk43agA4)
+- [EASIEST EKS Cluster Setup & Deployment of Two-Tier Application | Episode 6](https://www.youtube.com/watch?v=6ZALmrssgfc)
+
+
 - [ECS and EKS: What Works Best for Your Project? | AWS ECS vs EKS | KodeKloud](https://www.youtube.com/watch?v=o73kDW0xqlg)
+- [Containers on AWS Overview: ECS | EKS | Fargate | ECR](https://www.youtube.com/watch?v=AYAh6YDXuho)
+- [Kubernetes Karpenter Vs AWS EKS Auto](https://www.youtube.com/watch?v=WtL6WHQldYc)
 
 - [Mastering AWS EKS: Top 10 AWS EKS Interview Questions Unveiled with Answers!"](https://www.youtube.com/watch?v=TPH5TAeZwg8)
 
