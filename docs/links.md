@@ -89,6 +89,7 @@
 ### Why one should not use AWS
 
 - [AWS is 10x slower than a dedicated server for the same price](https://www.youtube.com/watch?v=Ps3AI1kTIR4)
+- [Stop Overpaying for AWS — Build Your Own Production VPS (Step-by-Step)](https://www.youtube.com/watch?v=ucB5r9i0gfc)
 
 
 ### AWS Interview
