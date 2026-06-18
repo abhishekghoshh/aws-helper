@@ -50,3 +50,4 @@ backend.config
 
 **/.env
 **/bin
+.DS_Store
